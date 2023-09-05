@@ -39,12 +39,18 @@ SDK.
         * Bullet physics [ https://pybullet.org/wordpress/index.php/forum-2/ ]
 
 ### Visual Studio Setup in detail
-<img width="496" alt="image" src="https://github.com/Akshay-Bhagwat/Gravity-Ball/assets/80463932/a95ae019-b3b1-448b-b084-5bbd2473ea6c">
-<img width="347" alt="image" src="https://github.com/Akshay-Bhagwat/Gravity-Ball/assets/80463932/bf08788d-0b24-4e76-a957-6b1ded51dd02">
-<img width="447" alt="image" src="https://github.com/Akshay-Bhagwat/Gravity-Ball/assets/80463932/9089154e-db62-48e3-95d5-484c8c080880">
-<img width="445" alt="image" src="https://github.com/Akshay-Bhagwat/Gravity-Ball/assets/80463932/724d9a12-18e8-474e-95fc-579fab127acd">
-<img width="457" alt="image" src="https://github.com/Akshay-Bhagwat/Gravity-Ball/assets/80463932/1114b44d-fdb5-47b6-b92e-a01141ab8de1">
-<img width="424" alt="image" src="https://github.com/Akshay-Bhagwat/Gravity-Ball/assets/80463932/17f12d81-db5c-46cf-a3b6-837ecc7dd9d8">
+
+* <img width="496" alt="image" src="https://github.com/Akshay-Bhagwat/Gravity-Ball/assets/80463932/a95ae019-b3b1-448b-b084-5bbd2473ea6c">
+
+* <img width="347" alt="image" src="https://github.com/Akshay-Bhagwat/Gravity-Ball/assets/80463932/bf08788d-0b24-4e76-a957-6b1ded51dd02">
+
+* <img width="447" alt="image" src="https://github.com/Akshay-Bhagwat/Gravity-Ball/assets/80463932/9089154e-db62-48e3-95d5-484c8c080880">
+
+* <img width="445" alt="image" src="https://github.com/Akshay-Bhagwat/Gravity-Ball/assets/80463932/724d9a12-18e8-474e-95fc-579fab127acd">
+
+* <img width="457" alt="image" src="https://github.com/Akshay-Bhagwat/Gravity-Ball/assets/80463932/1114b44d-fdb5-47b6-b92e-a01141ab8de1">
+
+* <img width="424" alt="image" src="https://github.com/Akshay-Bhagwat/Gravity-Ball/assets/80463932/17f12d81-db5c-46cf-a3b6-837ecc7dd9d8">
 
 ## **Snapshots**
 
